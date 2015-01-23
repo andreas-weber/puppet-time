@@ -12,7 +12,7 @@
 #   include aw_time
 #
 #   class { 'aw_time':
-#     'timezone' => 'Europe/Berlin'
+#     timezone => 'Europe/Berlin'
 #   }
 #
 # === Authors
